@@ -1,7 +1,7 @@
 Graziola
 ========
 
-A group of Faenza-like icons for programs not covered by Faenza. Currently, there are icons for two programs: Firefox Nighty (png) and Sky Rogue (png, svg).
+A group of Faenza-like icons for programs not covered by Faenza. Currently, there are icons for two programs: Firefox Nightly (png) and Sky Rogue (png, svg).
 
 Credit: Joaquim Baeta
 
